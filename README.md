@@ -9,7 +9,6 @@ A comparative study of LSTM and GRU networks for classifying human emotions from
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## 📌 Project Overview
-This project is part of the **Artificial Neural Networks (ANN)** course at **Misr University for Science & Technology (MUST)**. 
 
 The goal is to build and compare two Recurrent Neural Network (RNN) architectures—**Long Short-Term Memory (LSTM)** and **Gated Recurrent Units (GRU)**—to classify human emotions based on **EEG (Electroencephalography)** signals. The system classifies brain signals into three distinct emotional states:
 1.  **NEGATIVE**
